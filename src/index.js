@@ -11,7 +11,7 @@ const App = () => (
   <div style={styles}>
     <Hello name="CodeSandbox" />
     <h2>
-      Start editing to cxvx fsdfsdfsd dfdfds see dfdsfsd somefdfsd fdsfsdfdf
+      Start editing to cxvx fsdfsdfsd dfdfdsdfsdfsdf  see dfdsfsd somefdfsd fdsfsdfdf
       magic happen {"\u2728"}
     </h2>
   </div>
